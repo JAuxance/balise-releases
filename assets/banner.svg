@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 240" role="img" aria-label="Balise">
+  <rect width="1280" height="240" rx="16" fill="#111114"/>
+  <g transform="translate(480 64)">
+    <rect width="112" height="112" rx="25" fill="#000" stroke="#ffffff" stroke-opacity="0.1"/>
+    <path transform="translate(56 56) scale(1.37) translate(-32 -32)" fill="#fff" d="M29 11 8 32l21 21V40l-8-8 8-8zM35 11l21 21-21 21V40l8-8-8-8z"/>
+  </g>
+  <text x="624" y="143" fill="#f1f1f3" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="68" font-weight="600" letter-spacing="-1">Balise</text>
+</svg>
